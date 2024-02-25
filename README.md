@@ -1,1 +1,1 @@
-# J2EEProject
+This is a project about user management system 
